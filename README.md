@@ -2,6 +2,7 @@
 
 This repository contains a PID controller implementation and resources for running the TurtleBot3 robot with ROS Noetic in a Docker environment. The project includes simulations and real-world navigation using the PID control for differential drive robots.
 
+<img src="images/PID_Control_DDR_ROS_Image.gif" alt="Project Image" width="600">
 
 ## Summary of Key Components
 
